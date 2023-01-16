@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+/*importattu fontit ja tyylit osoitteesta googleapis.com*/
+
+
+p {
+   color: rgb(23, 97, 119);
+   font-size: 22px;
+}
+
+h3 {
+   color: rgb(71, 83, 130);
+   text-align: left;
+   margin: 30px;
+ 
+}
+*{
+   
+    margin: 0;
+    font-family: "Quicksand";
+    color: rgb(34, 51, 119);
+    text-decoration: none;
+    text-align: left;
+    padding-left: 5px;
+ }
+
+ .navbar {
+    padding: 25px;
+    display:flex;
+    align-items: center;
+    max-width: auto;
+    margin: auto;
+    border-bottom: 1px solid #100f0f;
+    text-align: center;
+    background-color: rgba(39, 35, 35, 0);
+
+ }
+
+ .navbar h1 {
+    font-size: 45px;
+    color:  #237;
+    align-items: center;
+   
+}
+
+ .navbar .links {
+    margin-left: auto;
+ }
+
+ .navbar a {
+    margin-left: 10px;
+    padding: 10px;
+ }
+
+ .navbar a:hover {
+    color: rgb(18, 26, 140);
+ }
+
+ .content {
+ max-width: 600px;
+ margin: 40 px auto;
+ }
+
+.ilmoitus-preview {
+   
+   padding: 25px 0px;
+   margin: 20px 0px;
+   border-bottom: 1px solid;
+   color: rgba(248, 154, 14, 0.034);  
+ }
+
+ .ilmoitus-preview:hover {
+   background-color: rgba(58, 64, 67, 0.015);
+   border: rgba(0, 0, 0, 0.123) solid;
+ }
+
+.ilmoitukset-lista h2{
+   font-size: 100;
+}
+
+ .ilmoitus-preview h2 {  
+   font-size: 22px;
+   color:  #237;
+   margin-bottom: 10px;
+   text-align: left;
+}
+
+.IlmoituksenLuonti {     
+      color: #f2f2f2;
+      background-color:  rgb(39, 155, 175);
+      border-radius: 7px;
+      
+}
+
+.ilmoituksen-tiedot  {
+      font-size: 20px;
+      color: #237;
+      margin-bottom: 8px;
+      grid-row: auto;
+      background-color: rgba(69, 168, 173, 0.097);
+      border-style:dashed;
+      border-color: #464e9e64;
+      box-shadow: #756666;
+      
+}
+
+.ilmoituksen-tiedot h2 {
+      text-align: center;
+      font-size: 29px;
+      color: #237;
+      margin-bottom: 8px;
+      text-align: center;
+      margin-top: 30px;
+      margin-bottom: 25px;
+}
+
+.ilmoituksen-tiedot p {
+   max-width: 150px;
+}
+
+.ilmoituksen-tiedot div {      
+      margin: 15px
+}
+
+.ilmoituksen-tiedot button {
+   background-color: rgb(255, 72, 0);
+   color:rgb(37, 33, 33);
+   border: none;
+   margin-top: 120px;
+   padding: 8px;
+   cursor: pointer;
+   font-weight: bold;
+}
+
+.luo-uusi {
+   background-color: rgba(216, 208, 198, 0);
+   border-style: solid rgb(197, 126, 126);
+   max-width: 400px;
+   margin: 0 auto;
+   text-align: center;
+}
+
+.luo-uusi label {
+   text-align: left;
+   display: block;
+}
+
+.luo-uusi h2 {
+   font-size: 25px;
+   color: rgb(38, 111, 174);
+   margin-bottom: 30px;
+   margin-top:100px;
+   text-align: left;
+}
+
+.luo-uusi input, .luo-uusi select, .luo-uusi textarea{
+   width: 100%;
+   padding: 6px 10px;
+   margin: 10px 0;
+   border: 1px solid rgb(38, 111, 174);
+   box-sizing: border-box;
+   display: block;
+}
+
+.luo-uusi button {
+   background: rgb(255, 145, 0);
+   color: rgb(255, 255, 255);
+   border: rgb(255, 255, 255);
+   padding: 8px;
+   margin-top: 20px;
+   margin-bottom: 15px;
+   border-style: outset;
+   cursor:progress;
+}
+
+/* liukuva menu*/

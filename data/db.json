@@ -1,0 +1,32 @@
+{
+  "ilmoitukset": [
+    {
+      "title": "yritykset ilmoittavat",
+      "body": "erittäin hyvää shiatsuhierontaa opiskelijahinnoin. Ota yhteyttä ja varaa aikasi. www.liekkikadet.fi",
+      "author": "liekkikädet",
+      "location": "Elimäki",
+      "id": 30
+    },
+    {
+      "title": "leffaseuraa",
+      "body": "olisi mukava katoa elokuvaa ",
+      "author": "esko",
+      "location": "toholampi",
+      "id": 31
+    },
+    {
+      "title": "kimppakyydit",
+      "body": "Kyytiapua tarjolla välillä elimäki- porvoo, joka toinen sunnuntai.",
+      "author": "Eksoi",
+      "location": "Elimäki",
+      "id": 32
+    },
+    {
+      "title": "työpaikat",
+      "body": "Tiedekeskus heurekan tiedekauppa mangneetti hakee iloista ja positiivisen luonteen pomaavaa myyjää. Myymäsi tuotteet ovat todella mielenkiintoisia, aina pulmapeleistä itse koottaviin avaruusraketteihin. Laita avoin hakemus jo tänään meille niin varmistat paikkasi hakijoiden kärkipäässe",
+      "author": "Päivi Astren",
+      "location": "Vantaa",
+      "id": 33
+    }
+  ]
+}
